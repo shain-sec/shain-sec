@@ -39,7 +39,7 @@ I enjoy building practical cybersecurity projects that simulate real-world attac
 # 🚀 Current Focus
 
 - 🛡️ Honeypot Engineering
-- 📊 Detection Engineering & SIEM (Splunk)
+- 📊 Detection Engineering & SIEM
 - 🎯 Threat Hunting
 - 🐍 Python Security Automation
 - 🌐 Web Application Security
