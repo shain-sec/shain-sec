@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammed Shain. 👋</h1>
+<h1 align="center">Hi, I'm Muhammed Shain 👋</h1>
 
 <p align="center">
   <b>Cybersecurity Analyst • Threat Detection • SOC • Penetration Testing</b>
