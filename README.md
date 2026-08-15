@@ -37,7 +37,7 @@ I enjoy building practical cybersecurity projects that simulate real-world attac
 - 🛡️ Honeypot Engineering
 - 📊 Detection Engineering & SIEM
 - 🎯 Threat Hunting
-- 🐍 Python Security Automation
+- 🐍 Python Security
 - 🌐 Web Application Security
 - 🔍 Incident Response
 
