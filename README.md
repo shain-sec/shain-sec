@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Building practical cybersecurity solutions through offensive security, threat detection, and security automation.
+Building practical cybersecurity solutions through offensive security, threat detection, and security automations.
 </p>
 
 <p align="center">
