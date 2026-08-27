@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  Building practical security solutions by combining offensive security, attacker behavior analysis, threat detection, and security monitoring.
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=0078D4&center=true&vCenter=true&width=850&lines=Threat+Detection+%26+Incident+Response;Security+Operations+(SOC)+%7C+SIEM;Penetration+Testing+%26+Vulnerability+Assessment;Honeypot+Engineering+%26+Attacker+Profiling;Building+Practical+Cybersecurity+Solutions" alt="Typing SVG"/>
 </p>
 
