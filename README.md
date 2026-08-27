@@ -193,18 +193,9 @@ Currently expanding my practical knowledge in:
 - 🔎 Threat Hunting
 - 📊 Advanced Microsoft Sentinel & SIEM Workflows
 - 📜 Sigma Rules
-- 🔬 YARA
 - 🖥️ Velociraptor
 - 🦠 Malware Analysis
 - 🏢 Active Directory Security
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shain-sec&show_icons=true&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-</p>
 
 ---
 
