@@ -1,166 +1,225 @@
 <h1 align="center">Hi, I'm Muhammed Shain 👋</h1>
 
 <p align="center">
-  <b>Cybersecurity Analyst  • Threat Detection • SOC • Penetration Testing</b>
+  <b>Cybersecurity Analyst • Threat Detection • SOC • Penetration Testing</b>
 </p>
 
 <p align="center">
-Building practical cybersecurity solutions through offensive security, threat detection, and security automations.
+  M.Sc. Cybersecurity Graduate | Certified Ethical Hacker (CEH) | Security Researcher
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=0078D4&center=true&vCenter=true&width=760&lines=Threat+Detection+%26+Incident+Response;Security+Operations+(SOC)+%7C+SIEM;Penetration+Testing+%26+Vulnerability+Assessment;Threat+Hunting+%7C+Detection+Engineering;Building+Practical+Cybersecurity+Projects" alt="Typing SVG"/>
+  Building practical security solutions by combining offensive security, attacker behavior analysis, threat detection, and security monitoring.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=0078D4&center=true&vCenter=true&width=850&lines=Threat+Detection+%26+Incident+Response;Security+Operations+(SOC)+%7C+SIEM;Penetration+Testing+%26+Vulnerability+Assessment;Honeypot+Engineering+%26+Attacker+Profiling;Building+Practical+Cybersecurity+Solutions" alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammedshain">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
   <a href="mailto:muhammedshain047@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm an **M.Sc. Cybersecurity graduate** and **Certified Ethical Hacker (CEH)** with hands-on experience in **Security Operations (SOC)**, **Threat Detection**, **Incident Response**, **Penetration Testing**, and **Vulnerability Assessment**.
+I'm a **Cybersecurity Analyst and M.Sc. Cybersecurity graduate** with hands-on experience in **penetration testing, vulnerability assessment, security monitoring, log analysis, and threat detection**.
 
-I enjoy building practical cybersecurity projects that simulate real-world attacks, automate security analysis, and strengthen defensive capabilities through offensive security techniques.
+My approach combines an **offensive security mindset with defensive security practices**. I use penetration testing and attacker behavior analysis to understand how systems can be compromised, then apply those insights to threat detection, security monitoring, and stronger defensive controls.
+
+I focus on building practical cybersecurity projects that simulate attacks, capture security telemetry, analyze attacker behavior, and turn technical findings into actionable security improvements.
 
 ---
 
-# 🚀 Current Focus
+## 💡 What I Bring to the Table
 
-- 🛡️ Honeypot Engineering
-- 📊 Detection Engineering & SIEM
-- 🎯 Threat Hunting
-- 🌐 Web Application Security
-- 🔍 Incident Response
+- **Offensive Security Perspective** — Hands-on experience identifying and analyzing web application and network security weaknesses.
+- **Threat Detection & Investigation** — Experience with security telemetry, log analysis, alert investigation, and attacker behavior analysis.
+- **SOC & SIEM Foundations** — Worked with Splunk and Microsoft Sentinel for monitoring, detection, and investigation scenarios.
+- **Security Engineering Mindset** — Build practical projects involving honeypots, attacker profiling, dashboards, and security automation.
+- **Actionable Communication** — Document vulnerabilities, security findings, risk severity, and remediation recommendations.
+- **Research & Continuous Learning** — Published cybersecurity research and continuously developing skills in detection engineering and threat hunting.
 
 ---
 
 # ⭐ Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🛡️ Honeypot Ecosystem with ML-Based Attacker Profiling | Multi-service honeypot combining Flask and Cowrie to capture attacks, classify attacker behaviour using Machine Learning, and provide centralized security monitoring. |
-| 📊 SOC Detection Lab | Detection engineering, log analysis, alert triage, and SIEM investigations using Splunk. |
-| 🐍 Python Security Tools | Collection of automation tools for reconnaissance, log analysis, vulnerability assessment, and SOC workflows. |
-| 🌐 Web Application Security Lab | Hands-on penetration testing covering OWASP Top 10 vulnerabilities with exploitation and remediation guidance. |
-| 🎯 Threat Hunting Lab | Windows Event Logs, Sigma Rules, MITRE ATT&CK mapping, and threat hunting scenarios. |
+## 🛡️ Honeypot Ecosystem with ML-Based Attacker Profiling
+
+A multi-service cybersecurity monitoring environment designed to capture, analyze, and profile attacker behavior.
+
+- Built a custom **Python/Flask HTTP honeypot** to capture web-based attacks.
+- Integrated the **Cowrie SSH honeypot** to monitor brute-force and credential attacks.
+- Captured and analyzed attack telemetry including **brute-force activity, SQL injection, XSS, and reconnaissance attempts**.
+- Applied a **Random Forest machine learning model** to classify attacker behavior into four threat profiles.
+- Built a centralized dashboard with automated risk scoring and live threat monitoring.
+
+<p>
+  <a href="https://github.com/shain-sec/honeypot-ecosystem">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Honeypot Ecosystem Repository"/>
+  </a>
+</p>
 
 ---
 
-# 📚 Publications
+## 💼 Cybersecurity Portfolio
 
-### 📄 A Post-Quantum-Resilient IoT Device Authentication Framework
+A collection of practical cybersecurity work, labs, and projects demonstrating hands-on experience across offensive and defensive security.
 
-**International Research Journal on Advanced Engineering and Management (IRJAEM) • 2026**
+Areas include:
 
-- Proposed **PQ-IoTGuard**, a post-quantum IoT authentication framework integrating lattice-based cryptography, AI-based anomaly detection, and blockchain to strengthen IoT security against future quantum threats.
+- Threat detection and security monitoring
+- Penetration testing
+- Vulnerability assessment
+- SOC investigations
+- Web application security
+- Security automation
+- Network security
 
-🔗 https://goldncloudpublications.com/index.php/irjaem/article/view/1645
-
----
-
-### 📄 Ethical Hacking and Its Impact on Society: Security and Challenges
-
-**Yenepoya University • 2025**
-
-- Research exploring ethical hacking methodologies, penetration testing practices, cybersecurity ethics, defensive security strategies, and emerging challenges through real-world case studies.
-
----
-
-# 🏆 Highlights
-
-- 🎯 Certified Ethical Hacker (CEH)
-- 🧪 Certified Penetration Tester (CPT)
-- 🔐 ISO/IEC 27001 Information Security Associate
-- 🏅 Hall of Fame — Cyber & Forensics Security Solutions (CFSS)
-- 📄 Published Cybersecurity Research
-- 🏆 Top 20 — Ajman University CTF Competition
+<p>
+  <a href="https://github.com/shain-sec/cybersecurity-portfolio">
+    <img src="https://img.shields.io/badge/View_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Cybersecurity Portfolio Repository"/>
+  </a>
+</p>
 
 ---
 
-# 🛠️ Tech Stack
+## 🔐 Graphical Password Authentication
 
-### Security
+An academic security project exploring an alternative approach to traditional password authentication using graphical elements.
 
+The project demonstrates my foundation in application development and security-focused authentication concepts.
+
+<p>
+  <a href="https://github.com/shain-sec/Graphical-Password-Authentication">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Graphical Password Authentication Repository"/>
+  </a>
+</p>
+
+---
+
+# 🛠️ Core Skills
+
+### 🛡️ Security Operations & Threat Detection
+
+`Threat Detection` • `Log Analysis` • `Alert Triage` • `Incident Investigation` • `SIEM` • `MITRE ATT&CK`
+
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+
+---
+
+### 🎯 Penetration Testing & Security Assessment
+
+`Penetration Testing` • `Vulnerability Assessment` • `Web Application Security` • `OWASP Top 10`
+
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark)
-![Cowrie](https://img.shields.io/badge/Cowrie-Honeypot-blue?style=flat-square)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat-square)
 
-### Frameworks
+---
 
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=flat-square)
-![OWASP Top 10](https://img.shields.io/badge/OWASP-Top10-black?style=flat-square)
-![NIST CSF](https://img.shields.io/badge/NIST-CSF-blue?style=flat-square)
-![NIST RMF](https://img.shields.io/badge/NIST-RMF-informational?style=flat-square)
-![ISO 27001](https://img.shields.io/badge/ISO-27001-success?style=flat-square)
+### 💻 Systems & Security Automation
 
-### Programming
+`Python` • `Bash` • `JavaScript` • `Linux` • `Windows`
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ---
 
-# 🎯 Areas of Interest
+# 📚 Security Knowledge
 
-- Security Operations Center (SOC)
-- Threat Detection
-- Incident Response
-- Detection Engineering
-- Threat Hunting
-- Penetration Testing
-- Vulnerability Assessment
-- Security Automation
-- Network Security
-- Web Application Security
+**Frameworks & Standards**
+
+`MITRE ATT&CK` • `OWASP Top 10` • `NIST CSF` • `ISO/IEC 27001`
 
 ---
 
-# 📚 Currently Learning
+# 🏆 Certifications & Recognition
 
-- Microsoft Sentinel
-- Detection Engineering
-- Sigma Rules
-- YARA
-- Velociraptor
-- Malware Analysis
-- Active Directory Security
+- 🎯 **Certified Ethical Hacker (CEH)** — EC-Council
+- 🧪 **Certified Penetration Tester (CPT)** — RedTeam Hacker Academy
+- 🔐 **ISO/IEC 27001 Information Security Associate**
+- ☁️ **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)**
+- 🤖 **Microsoft Certified: Azure AI Fundamentals (AI-900)**
+- 🛡️ **Google Cybersecurity Professional Certificate**
+- 🏅 **Hall of Fame Recognition** — Cyber & Forensics Security Solutions
+- 🏆 **Top 20** — Ajman University CTF Competition
 
 ---
 
-# 📈 GitHub Stats
+# 📄 Research & Publications
+
+### A Post-Quantum-Resilient IoT Device Authentication Framework
+
+**INCON-SDG • 2026**
+
+Proposed **PQ-IoTGuard**, a framework combining:
+
+- Lattice-based cryptography
+- AI-based anomaly detection
+- Blockchain concepts
+- Post-quantum authentication for IoT environments
+
+🔗 **[Read the Publication](https://goldncloudpublications.com/index.php/irjaem/article/view/1645)**
+
+---
+
+### Ethical Hacking and Its Impact on Society: Security and Challenges
+
+**Yenepoya University • 2025**
+
+Research exploring ethical hacking methodologies, penetration testing practices, cybersecurity ethics, defensive security strategies, and emerging security challenges.
+
+---
+
+# 🎯 Currently Developing
+
+Currently expanding my practical knowledge in:
+
+- 🛡️ Detection Engineering
+- 🔎 Threat Hunting
+- 📊 Advanced Microsoft Sentinel & SIEM Workflows
+- 📜 Sigma Rules
+- 🔬 YARA
+- 🖥️ Velociraptor
+- 🦠 Malware Analysis
+- 🏢 Active Directory Security
+
+---
+
+# 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shain-sec&show_icons=true&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shain-sec&layout=compact&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shain-sec&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shain-sec&show_icons=true&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
 </p>
 
 ---
 
 # 🤝 Let's Connect
 
-I'm always open to collaborating on cybersecurity projects, detection engineering, penetration testing, and open-source security tools.
+I'm interested in opportunities and collaborations involving:
+
+**Cybersecurity • Threat Detection • SOC • Incident Response • Detection Engineering • Threat Hunting • Penetration Testing • Security Research**
 
 <p align="center">
-<a href="https://linkedin.com/in/muhammedshain">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://linkedin.com/in/muhammedshain">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Understanding how attackers operate to build stronger defenses.</i>
 </p>
