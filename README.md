@@ -42,7 +42,7 @@ I focus on building practical cybersecurity projects that simulate attacks, capt
 - **Offensive Security Perspective** — Hands-on experience identifying and analyzing web application and network security weaknesses.
 - **Threat Detection & Investigation** — Experience with security telemetry, log analysis, alert investigation, and attacker behavior analysis.
 - **SOC & SIEM Foundations** — Worked with Splunk and Microsoft Sentinel for monitoring, detection, and investigation scenarios.
-- **Security Engineering Mindset** — Build practical projects involving honeypots, attacker profiling, dashboards, and security automation.
+- **Security Engineering** — Build practical projects involving honeypots, attacker profiling, dashboards, and security automation.
 - **Actionable Communication** — Document vulnerabilities, security findings, risk severity, and remediation recommendations.
 - **Research & Continuous Learning** — Published cybersecurity research and continuously developing skills in detection engineering.
 
