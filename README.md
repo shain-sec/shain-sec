@@ -199,14 +199,10 @@ Currently expanding my practical knowledge in:
 
 I'm interested in opportunities and collaborations involving:
 
-**Cybersecurity • Threat Detection • SOC • Incident Response • Detection Engineering • Threat Hunting • Penetration Testing • Security Research**
+**Cybersecurity • Threat Detection • SOC • Incident Response • Detection Engineering • Penetration Testing • Security Research**
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammedshain">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
   </a>
-</p>
-
-<p align="center">
-  <i>Understanding how attackers operate to build stronger defenses.</i>
 </p>
