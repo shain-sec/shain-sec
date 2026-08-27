@@ -44,7 +44,7 @@ I focus on building practical cybersecurity projects that simulate attacks, capt
 - **SOC & SIEM Foundations** — Worked with Splunk and Microsoft Sentinel for monitoring, detection, and investigation scenarios.
 - **Security Engineering Mindset** — Build practical projects involving honeypots, attacker profiling, dashboards, and security automation.
 - **Actionable Communication** — Document vulnerabilities, security findings, risk severity, and remediation recommendations.
-- **Research & Continuous Learning** — Published cybersecurity research and continuously developing skills in detection engineering and threat hunting.
+- **Research & Continuous Learning** — Published cybersecurity research and continuously developing skills in detection engineering.
 
 ---
 
