@@ -178,21 +178,6 @@ Proposed **PQ-IoTGuard**, a framework combining:
 **Yenepoya University • 2025**
 
 Research exploring ethical hacking methodologies, penetration testing practices, cybersecurity ethics, defensive security strategies, and emerging security challenges.
-
----
-
-# 🎯 Currently Developing
-
-Currently expanding my practical knowledge in:
-
-- 🛡️ Detection Engineering
-- 🔎 Threat Hunting
-- 📊 Advanced Microsoft Sentinel & SIEM Workflows
-- 📜 Sigma Rules
-- 🖥️ Velociraptor
-- 🦠 Malware Analysis
-- 🏢 Active Directory Security
-
 ---
 
 # 🤝 Let's Connect
