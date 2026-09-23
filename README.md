@@ -66,7 +66,7 @@ A multi-service cybersecurity monitoring environment designed to capture, analyz
 
 ## 💼 Cybersecurity Portfolio
 
-A collection of practical cybersecurity work, labs, and projects demonstrating hands-on experience across offensive and defensive security.
+A collection of practical cybersecurity projects, labs, and security research covering offensive and defensive security concepts.
 
 Areas include:
 
