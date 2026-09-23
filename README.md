@@ -44,7 +44,7 @@ I focus on building practical cybersecurity projects that simulate attacks, capt
 
 ---
 
-# ⭐ Featured Projects
+# ⭐ Featured Work
 
 ## 🛡️ Honeypot Ecosystem with ML-Based Attacker Profiling
 
