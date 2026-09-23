@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhammed Shain 👋</h1>
 
 <p align="center">
-  <b>Cybersecurity Analyst • Threat Detection • SOC • Penetration Testing</b>
+  <b>Cybersecurity Analyst • Security Operations • Threat Analysis • Penetration Testing</b>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 I'm an M.Sc. Cybersecurity graduate and Certified Ethical Hacker (CEH) with hands-on experience in penetration testing, vulnerability assessment, web application security, and security-focused projects.
 
-My approach combines an **offensive security mindset with defensive security practices**. I use penetration testing and attacker behavior analysis to understand how systems can be compromised, then apply those insights to threat detection, security monitoring, and stronger defensive controls.
+My approach combines an **offensive security mindset with defensive security practices**. I use penetration testing and attacker behaviour analysis to understand security weaknesses and explore defensive security concepts such as telemetry analysis, security monitoring, and threat detection.
 
 I focus on building practical cybersecurity projects that simulate attacks, capture security telemetry, analyze attacker behavior, and turn technical findings into actionable security improvements.
 
@@ -123,7 +123,7 @@ The project demonstrates my foundation in application development and security-f
 
 ---
 
-### 💻 Systems & Security Automation
+### 💻 Systems & Security Tools
 
 `Python` • `Bash` • `JavaScript` • `Linux` • `Windows`
 
