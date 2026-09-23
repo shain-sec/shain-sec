@@ -104,10 +104,7 @@ The project demonstrates my foundation in application development and security-f
 
 ### 🛡️ Security Operations & Threat Detection
 
-`Security Operations` • `Threat Detection` • `Security Analysis` • `Vulnerability Assessment
-`
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+`Security Operations` • `Threat Detection` • `Security Analysis` • `Vulnerability Assessment`
 
 ---
 
