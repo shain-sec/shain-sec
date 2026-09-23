@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=0078D4&center=true&vCenter=true&width=850&lines=Threat+Detection+%26+Incident+Response;Security+Operations+(SOC)+%7C+SIEM;Penetration+Testing+%26+Vulnerability+Assessment;Honeypot+Engineering+%26+Attacker+Profiling;Building+Practical+Cybersecurity+Solutions" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=0078D4&center=true&vCenter=true&width=850&lines=Threat+Detection+%26+Security+Analysis;Security+Operations+%26+SIEM;Penetration+Testing+%26+Vulnerability+Assessment;Honeypot+Engineering+%26+Attacker+Profiling;Building+Practical+Cybersecurity+Projects" alt="Typing SVG"/>
 </p>
 
 <p align="center">
