@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Cybersecurity Analyst and M.Sc. Cybersecurity graduate** with hands-on experience in **penetration testing, vulnerability assessment, security monitoring, log analysis, and threat detection**.
+I'm an M.Sc. Cybersecurity graduate and Certified Ethical Hacker (CEH) with hands-on experience in penetration testing, vulnerability assessment, web application security, and security-focused projects.
 
 My approach combines an **offensive security mindset with defensive security practices**. I use penetration testing and attacker behavior analysis to understand how systems can be compromised, then apply those insights to threat detection, security monitoring, and stronger defensive controls.
 
