@@ -132,14 +132,6 @@ The project demonstrates my foundation in application development and security-f
 
 ---
 
-# 📚 Security Knowledge
-
-**Frameworks & Standards**
-
-`MITRE ATT&CK` • `OWASP Top 10` • `NIST CSF` • `ISO/IEC 27001`
-
----
-
 # 🏆 Certifications & Recognition
 
 - 🎯 **Certified Ethical Hacker (CEH)** — EC-Council
